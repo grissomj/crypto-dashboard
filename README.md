@@ -1,4 +1,8 @@
-# Crypto Dashboard
+## 📊 Crypto Dashboard Preview
+
+![Preview](screenshot.png)
+
+
 
 A real-time cryptocurrency dashboard using the CoinGecko API.
 
